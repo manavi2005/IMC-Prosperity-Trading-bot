@@ -1,6 +1,7 @@
 # IMC-Prosperity-Trading-bot
 
-## Team name: Arbitragia and we placed in the Top 500 amongst 15k particpants. Here's a break down of what we did.
+## Team name: Arbitragia 
+Placed in the Top 500 amongst 15k particpants. Here's a break down of what we did.
 
 ## Algorithm
 
