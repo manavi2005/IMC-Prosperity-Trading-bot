@@ -1,7 +1,7 @@
 # IMC-Prosperity-Trading-bot
 
 ## Team name: Arbitragia 
-Placed in the Top 5%. Here's a break down of what we did.
+Placed in the Top 3%. Here's a break down of what we did.
 
 ## Algorithm
 
