@@ -24,3 +24,7 @@ In Round 4, we extend our unified Trader class to support the Magnificent Macaro
 ### Round 5 Strategy
 
 In Round 5, we refactor and streamline the entire codebase for clarity and maintainability without altering any core quantitative logic. Common helpers for mid-price, VWAP, LP conversion, and Black–Scholes option pricing are consolidated; price rounding is standardized; order-generation loops are unified across all products; and time-series metrics are logged consistently. These DRY-driven improvements embrace Python best practices and yield a more readable, modular, and extensible trading bot framework.
+
+##Manual Trading 
+
+In the manual trading section, we combined optimization, probability analysis, and strategy to maximize our profits across different scenarios. We evaluated currency exchange paths to identify the most profitable trading sequence, calculated expected values to choose the best containers and suitcases while considering competition, and targeted less crowded options for higher expected returns. We designed bidding strategies by analyzing price distributions and optimizing bids for the highest chance of profit. In the final round, we used news signals to predict asset movements and decided whether to buy or sell, as well as how much to trade, while adapting to limited and uncertain information. Overall, we focused on making data-driven decisions and carefully balancing risk and reward in a competitive, unpredictable environment.
